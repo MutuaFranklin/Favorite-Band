@@ -46,4 +46,4 @@ Type https://github.com/MutuaFranklin/Favorite-Band.git and press Enter to creat
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details
