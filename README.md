@@ -1,6 +1,12 @@
 # Favorite Band
 
+### Description
+
 A fan site for H_art the Band which is a Kenyan origin band and my favorite band. It covers band members, biography, a list of my favorite songs from the band and a few comments for the band.
+
+### Author
+
+* **Franklin Mutua** - *Initial work* - [MutuaFranklin](https://github.com/MutuaFranklin/)
 
 ## Project setup instructions
 
@@ -10,6 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ```
 Editor
+Live server extension
 Git
 Github account
 ```
@@ -31,17 +38,18 @@ Open Terminal. Change the current working directory to the location where you wa
 ```
 Type https://github.com/MutuaFranklin/Favorite-Band.git and press Enter to create your local clone.
 ```
-
-
-## Authors
-
-* **Franklin Mutua** - *Initial work* - [MutuaFranklin](https://github.com/MutuaFranklin/)
+## Technologies Used
+HTML
+CSS
 
 
 ## Live link
 
-[Favorite Band](https://mutuafranklin.github.io/Favorite-Band/)
+[Favorite Band live link](https://mutuafranklin.github.io/Favorite-Band/)
 
+## Support and contact details
+
+Email: [franklinngumbi@gmail.com ](franklingumbi@gmail.com)
 
 
 ## License
