@@ -46,8 +46,8 @@ Type https://github.com/MutuaFranklin/Favorite-Band.git and press Enter to creat
 ```
 ## Technologies Used
 
-HTML
-CSS
+* HTML
+* CSS
 
 
 ## Live link
