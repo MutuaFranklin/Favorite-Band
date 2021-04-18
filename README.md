@@ -6,7 +6,13 @@ A fan site for H_art the Band which is a Kenyan origin band and my favorite band
 
 ### Author
 
-* **Franklin Mutua** - *Initial work* - [MutuaFranklin](https://github.com/MutuaFranklin/)
+**Franklin Mutua**        -   [Github link](https://github.com/MutuaFranklin/)
+
+
+### Date of current version
+
+17/04/2021
+
 
 ## Project setup instructions
 
@@ -39,6 +45,7 @@ Open Terminal. Change the current working directory to the location where you wa
 Type https://github.com/MutuaFranklin/Favorite-Band.git and press Enter to create your local clone.
 ```
 ## Technologies Used
+
 HTML
 CSS
 
