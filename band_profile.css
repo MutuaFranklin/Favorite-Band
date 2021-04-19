@@ -1,3 +1,10 @@
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    body {
+      background: #999;
+      width: 100%;
+    }
+  }
+
 .top-bar{
     background:linear-gradient( 75deg, rgb(178, 207, 204), rgb(166, 204, 188), rgb(172, 230, 238));
     height: 40px;
